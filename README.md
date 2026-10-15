@@ -82,7 +82,11 @@ The system includes:
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="777" height="402" alt="image" src="https://github.com/user-attachments/assets/2d4dd8d9-09b6-4de8-9fcc-9c2d19af19a6" />
+
+<img width="1200" height="751" alt="image" src="https://github.com/user-attachments/assets/60dba965-5513-4ad5-83f4-65c084c5008b" />
+<img width="967" height="723" alt="image" src="https://github.com/user-attachments/assets/454431d1-6312-4709-98d6-f7b009c170df" />
+<img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/48925fc5-a658-4926-bd1f-49fb9ed9bba8" />
 
 ---
 
